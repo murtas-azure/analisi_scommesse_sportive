@@ -1,0 +1,20 @@
+Juventus FC	Juventus FC Campione d'Italia 18/19	38	27,2	23	17,42 mln €	661,88 mln €
+Inter	Inter	34	27,3	19	17,83 mln €	606,05 mln €
+SSC Napoli	SSC Napoli	33	27,3	24	16,61 mln €	548,28 mln €
+AC Milan	AC Milan	37	25,7	22	10,93 mln €	404,33 mln €
+AS Roma	AS Roma	36	26,1	23	10,91 mln €	392,73 mln €
+SS Lazio	SS Lazio Vincitore Coppa Italia 18/19	34	26,6	24	8,94 mln €	303,88 mln €
+ACF Fiorentina	ACF Fiorentina	42	25,2	28	7,20 mln €	302,23 mln €
+Atalanta	Atalanta	37	25,4	26	7,88 mln €	291,43 mln €
+US Sassuolo	US Sassuolo	44	24,8	18	3,82 mln €	167,98 mln €
+Cagliari Calcio	Cagliari Calcio	41	26,3	16	4,09 mln €	167,83 mln €
+Torino FC	Torino FC	37	25,2	17	4,42 mln €	163,55 mln €
+Genoa CFC	Genoa CFC	43	26,7	25	3,31 mln €	142,38 mln €
+UC Sampdoria	UC Sampdoria	38	25,7	20	3,56 mln €	135,28 mln €
+Bologna FC	Bologna FC	40	25,0	26	3,24 mln €	129,65 mln €
+Parma Calcio	Parma Calcio	40	26,6	19	3,22 mln €	128,75 mln €
+Udinese Calcio	Udinese Calcio	39	25,3	28	3,10 mln €	121,08 mln €
+Hellas Verona	Hellas Verona  	40	25,4	19	2,81 mln €	112,53 mln €
+Brescia Calcio	Brescia Calcio  Campione Serie B 18/19	33	26,4	11	2,52 mln €	83,23 mln €
+SPAL	SPAL	42	26,1	23	1,75 mln €	73,63 mln €
+US Lecce	US Lecce  	47	25,4	17	1,11 mln €	52,33 mln €

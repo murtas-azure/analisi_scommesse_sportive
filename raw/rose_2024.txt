@@ -1,0 +1,20 @@
+Inter	Inter Campione d'Italia 23/24	29	28,3	20	24,89 mln €	721,80 mln €
+Juventus FC	Juventus FC Vincitore Coppa Italia 23/24	28	26,2	20	20,56 mln €	575,70 mln €
+Atalanta	Atalanta Vincitore Europa League 23/24	25	27,5	13	18,32 mln €	458,00 mln €
+AC Milan	AC Milan	25	26,4	19	17,53 mln €	438,20 mln €
+SSC Napoli	SSC Napoli	25	28,2	14	15,00 mln €	375,05 mln €
+AS Roma	AS Roma	26	26,5	18	12,27 mln €	319,00 mln €
+Bologna FC	Bologna FC	28	26,5	19	10,94 mln €	306,30 mln €
+SS Lazio	SS Lazio	31	26,6	22	9,09 mln €	281,65 mln €
+ACF Fiorentina	ACF Fiorentina	25	26,1	10	11,13 mln €	278,20 mln €
+Como 1907	Como 1907  	32	26,7	23	5,88 mln €	188,10 mln €
+Torino FC	Torino FC	30	26,8	25	6,01 mln €	180,40 mln €
+Parma Calcio	Parma Calcio  Campione Serie B 23/24	31	25,0	24	5,51 mln €	170,80 mln €
+Genoa CFC	Genoa CFC	30	26,4	18	5,41 mln €	162,15 mln €
+Udinese Calcio	Udinese Calcio	30	26,2	26	5,28 mln €	158,40 mln €
+Hellas Verona	Hellas Verona	32	25,5	24	2,70 mln €	86,55 mln €
+Empoli FC	Empoli FC	30	25,9	16	2,85 mln €	85,40 mln €
+Cagliari Calcio	Cagliari Calcio	24	27,3	11	3,42 mln €	82,10 mln €
+Venezia FC	Venezia FC  	30	26,4	23	2,61 mln €	78,20 mln €
+US Lecce	US Lecce	34	25,1	29	2,22 mln €	75,63 mln €
+AC Monza	AC Monza	30	26,8	10	2,11 mln €	63,23 mln €

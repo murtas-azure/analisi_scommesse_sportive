@@ -1,0 +1,20 @@
+Inter	Inter	41	25,7	22	16,19 mln €	663,90 mln €
+Juventus FC	Juventus FC Campione d'Italia 19/20	45	25,2	26	14,07 mln €	633,30 mln €
+AC Milan	AC Milan	42	24,4	27	13,04 mln €	547,78 mln €
+SSC Napoli	SSC Napoli Vincitore Coppa Italia 19/20	32	26,5	21	16,57 mln €	530,20 mln €
+Atalanta	Atalanta	39	25,5	21	11,03 mln €	430,00 mln €
+AS Roma	AS Roma	46	25,1	28	8,60 mln €	395,65 mln €
+SS Lazio	SS Lazio	44	26,1	32	7,42 mln €	326,33 mln €
+ACF Fiorentina	ACF Fiorentina	41	26,1	24	7,00 mln €	286,80 mln €
+US Sassuolo	US Sassuolo	39	25,4	19	6,20 mln €	241,74 mln €
+Cagliari Calcio	Cagliari Calcio	42	25,8	18	4,47 mln €	187,83 mln €
+Torino FC	Torino FC	40	25,8	22	4,38 mln €	175,28 mln €
+Udinese Calcio	Udinese Calcio	42	26,2	30	4,12 mln €	173,00 mln €
+Hellas Verona	Hellas Verona	46	24,7	21	3,42 mln €	157,21 mln €
+Bologna FC	Bologna FC	45	24,6	27	3,41 mln €	153,60 mln €
+Parma Calcio	Parma Calcio	53	25,5	30	2,43 mln €	128,70 mln €
+UC Sampdoria	UC Sampdoria	34	26,9	19	3,74 mln €	127,18 mln €
+Genoa CFC	Genoa CFC	44	26,9	23	2,54 mln €	111,93 mln €
+Spezia Calcio	Spezia Calcio  	39	26,2	18	1,84 mln €	71,68 mln €
+FC Crotone	FC Crotone  	41	26,5	19	1,29 mln €	52,75 mln €
+Benevento Calcio	Benevento Calcio  Campione Serie B 19/20	36	27,8	14	1,39 mln €	50,13 mln €

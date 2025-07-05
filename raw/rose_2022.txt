@@ -1,0 +1,20 @@
+SSC Napoli	SSC Napoli	31	26,7	20	21,10 mln €	654,08 mln €
+Inter	Inter Vincitore Coppa Italia 21/22	35	26,9	22	16,22 mln €	567,55 mln €
+AC Milan	AC Milan Campione d'Italia 21/22	36	26,4	27	15,14 mln €	545,10 mln €
+Juventus FC	Juventus FC	40	25,9	19	12,08 mln €	483,13 mln €
+AS Roma	AS Roma Conference League winner 21/22	47	24,2	27	7,69 mln €	361,38 mln €
+Atalanta	Atalanta	38	24,9	20	8,90 mln €	338,38 mln €
+SS Lazio	SS Lazio	33	26,5	20	8,07 mln €	266,43 mln €
+ACF Fiorentina	ACF Fiorentina	38	25,6	18	6,81 mln €	258,80 mln €
+US Sassuolo	US Sassuolo	35	25,4	19	6,63 mln €	232,20 mln €
+Torino FC	Torino FC	38	24,3	29	5,19 mln €	197,19 mln €
+Udinese Calcio	Udinese Calcio	38	25,3	28	4,97 mln €	188,86 mln €
+Bologna FC	Bologna FC	38	25,3	22	4,04 mln €	153,63 mln €
+AC Monza	AC Monza  	41	26,6	12	3,31 mln €	135,70 mln €
+Empoli FC	Empoli FC	44	24,8	19	2,85 mln €	125,53 mln €
+Hellas Verona	Hellas Verona	46	25,2	26	2,69 mln €	123,89 mln €
+US Salernitana	US Salernitana	45	26,9	27	2,63 mln €	118,35 mln €
+Spezia Calcio	Spezia Calcio	48	24,9	34	2,41 mln €	115,81 mln €
+US Lecce	US Lecce  Campione Serie B 21/22	39	25,1	23	2,70 mln €	105,20 mln €
+US Cremonese	US Cremonese  	42	26,2	19	1,99 mln €	83,78 mln €
+UC Sampdoria	UC Sampdoria	48	26,4	27	1,73 mln €	82,96 mln €

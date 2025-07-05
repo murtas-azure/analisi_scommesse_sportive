@@ -15,7 +15,6 @@ Atalanta,Udinese,X,3.33,3.30,2.22
 Carpi,Lazio,2,2.83,3.26,2.53
 Fiorentina,Palermo,X,1.67,3.94,5.07
 Frosinone,Sassuolo,2,5.00,4.09,1.64
-Sampdoria,Genoa,2,,,
 Roma,Chievo,1,1.20,6.51,14.25
 Bologna,Milan,2,3.75,3.41,2.03
 Inter,Empoli,1,1.36,5.00,8.75
@@ -30,9 +29,7 @@ Juventus,Carpi,1,1.29,5.31,11.25
 Chievo,Fiorentina,X,4.35,3.56,1.83
 Udinese,Torino,2,1.94,3.45,4.07
 Carpi,Empoli,1,1.83,3.48,4.43
-Verona,Milan,1,,,
 Roma,Napoli,1,2.66,3.34,2.66
-Fiorentina,Juventus,2,,,
 Atalanta,Chievo,1,2.01,3.30,3.90
 Bologna,Genoa,1,2.26,3.18,3.33
 Sampdoria,Lazio,1,3.00,3.30,2.38
@@ -46,7 +43,6 @@ Empoli,Verona,1,1.90,3.53,4.15
 Genoa,Inter,1,3.97,3.50,1.94
 Juventus,Lazio,1,1.52,3.99,6.94
 Palermo,Atalanta,X,2.33,3.29,3.13
-Udinese,Fiorentina,1,,,
 Sassuolo,Sampdoria,X,2.16,3.35,3.44
 Napoli,Bologna,1,1.27,5.63,11.63
 Sampdoria,Milan,2,3.26,3.36,2.23
@@ -84,7 +80,6 @@ Napoli,Genoa,1,1.27,5.69,11.75
 Frosinone,Fiorentina,X,5.44,3.95,1.62
 Sampdoria,Chievo,2,1.82,3.46,4.63
 Sassuolo,Udinese,X,1.99,3.36,3.96
-Torino,Juventus,2,,,
 Verona,Carpi,2,2.10,3.36,3.60
 Atalanta,Bologna,1,2.20,3.04,3.71
 Roma,Inter,X,1.84,3.50,4.53
@@ -92,7 +87,6 @@ Empoli,Palermo,X,1.70,3.66,5.13
 Lazio,Atalanta,1,1.81,3.48,4.69
 Palermo,Napoli,2,9.75,5.63,1.29
 Carpi,Frosinone,1,1.80,3.46,4.71
-Fiorentina,Verona,X,,,
 Genoa,Torino,1,2.53,3.05,2.98
 Udinese,Roma,2,4.48,3.58,1.82
 Chievo,Milan,X,4.30,3.33,1.94
@@ -108,7 +102,6 @@ Sassuolo,Milan,1,2.89,3.22,2.54
 Torino,Lazio,X,2.51,3.08,3.04
 Napoli,Chievo,1,1.19,6.73,16.75
 Verona,Sampdoria,2,2.50,3.33,2.84
-Roma,Fiorentina,1,,,
 Fiorentina,Napoli,X,3.31,3.30,2.24
 Lazio,Sassuolo,2,1.74,3.53,5.13
 Juventus,Inter,1,1.57,3.78,6.75
@@ -119,9 +112,7 @@ Udinese,Verona,1,1.90,3.56,4.13
 Palermo,Bologna,X,2.83,3.15,2.63
 Milan,Torino,1,1.85,3.43,4.54
 Empoli,Roma,2,4.06,3.38,1.95
-Napoli,Milan,X,,,
 Roma,Palermo,1,1.28,5.75,10.63
-Frosinone,Lazio,X,,,
 Atalanta,Fiorentina,2,3.53,3.19,2.20
 Genoa,Udinese,1,2.01,3.23,4.11
 Sassuolo,Empoli,1,2.09,3.18,3.78
@@ -145,7 +136,6 @@ Milan,Udinese,X,1.50,4.07,7.08
 Frosinone,Juventus,2,14.00,5.78,1.24
 Napoli,Carpi,1,1.16,7.50,18.63
 Sassuolo,Palermo,X,1.72,3.61,5.23
-Torino,Chievo,2,,,
 Verona,Inter,X,4.54,3.68,1.80
 Genoa,Lazio,X,2.59,3.15,2.88
 Bologna,Fiorentina,X,4.30,3.41,1.91
@@ -233,14 +223,12 @@ Carpi,Milan,X,5.31,3.47,1.75
 Sampdoria,Sassuolo,2,2.36,3.20,3.15
 Atalanta,Palermo,1,1.70,3.61,5.38
 Fiorentina,Udinese,1,1.50,4.20,6.94
-Frosinone,Chievo,2,,,
 Verona,Empoli,2,2.94,3.18,2.51
 Bologna,Napoli,1,7.24,4.33,1.46
 Inter,Genoa,1,1.60,3.95,5.71
 Torino,Roma,X,2.71,3.16,2.71
 Lazio,Juventus,2,3.48,3.24,2.21
 Napoli,Inter,1,1.62,3.88,5.75
-Sassuolo,Fiorentina,X,,,
 Palermo,Juventus,2,7.50,3.98,1.51
 Empoli,Lazio,1,2.89,3.28,2.50
 Roma,Atalanta,2,1.47,4.31,7.38
@@ -304,10 +292,8 @@ Atalanta,Carpi,1,1.78,3.50,4.89
 Frosinone,Sampdoria,1,2.64,3.32,2.69
 Genoa,Chievo,1,2.03,3.26,3.91
 Napoli,Fiorentina,1,1.72,3.79,5.01
-Sassuolo,Lazio,1,,,
 Verona,Udinese,X,2.32,3.28,3.16
 Bologna,Palermo,2,2.61,3.15,2.85
-Torino,Milan,X,,,
 Roma,Empoli,1,1.41,4.56,8.19
 Milan,Napoli,2,3.03,3.40,2.36
 Fiorentina,Atalanta,1,1.69,3.63,5.31
@@ -343,8 +329,6 @@ Napoli,Lazio,1,1.77,3.75,4.60
 Carpi,Fiorentina,2,4.41,3.30,1.90
 Roma,Sassuolo,X,1.45,4.47,7.67
 Atalanta,Verona,X,1.97,3.48,3.87
-Bologna,Frosinone,1,,,
-Genoa,Juventus,2,,,
 Torino,Sampdoria,1,1.74,3.63,4.92
 Chievo,Inter,2,3.80,3.28,2.10
 Milan,Palermo,1,1.68,3.57,5.69
@@ -372,7 +356,6 @@ Bologna,Sassuolo,2,2.69,3.16,2.76
 Empoli,Chievo,2,2.23,3.15,3.45
 Fiorentina,Milan,1,2.20,3.21,3.48
 Frosinone,Torino,2,3.69,3.25,2.11
-Inter,Atalanta,1,,,
 Palermo,Genoa,1,2.05,3.31,3.79
 Sampdoria,Carpi,1,2.01,3.24,4.13
 Sassuolo,Napoli,1,4.60,3.48,1.83

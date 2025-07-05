@@ -1,0 +1,20 @@
+Juventus FC	Juventus FC Vincitore Coppa Italia 16/17Campione d'Italia 16/17	33	26,9	17	19,79 mln €	653,15 mln €
+SSC Napoli	SSC Napoli	40	25,6	24	12,61 mln €	504,25 mln €
+Inter	Inter	34	26,5	22	14,33 mln €	487,28 mln €
+AS Roma	AS Roma	47	24,1	27	9,98 mln €	469,10 mln €
+SS Lazio	SS Lazio	44	25,3	28	9,29 mln €	408,78 mln €
+AC Milan	AC Milan	42	25,0	17	9,69 mln €	407,05 mln €
+ACF Fiorentina	ACF Fiorentina	41	24,4	26	5,79 mln €	237,33 mln €
+Atalanta	Atalanta	37	24,0	17	5,62 mln €	207,95 mln €
+UC Sampdoria	UC Sampdoria	39	25,1	25	4,88 mln €	190,45 mln €
+Torino FC	Torino FC	51	24,2	23	3,44 mln €	175,53 mln €
+Genoa CFC	Genoa CFC	44	26,5	25	3,07 mln €	135,13 mln €
+US Sassuolo	US Sassuolo	39	25,5	7	3,25 mln €	126,78 mln €
+Udinese Calcio	Udinese Calcio	46	24,4	35	2,35 mln €	108,03 mln €
+Bologna FC	Bologna FC	41	25,8	24	2,53 mln €	103,55 mln €
+Cagliari Calcio	Cagliari Calcio	41	25,8	13	2,40 mln €	98,58 mln €
+SPAL 2013	SPAL 2013  Campione Serie B 16/17	42	25,9	13	1,51 mln €	63,55 mln €
+Benevento Calcio	Benevento Calcio  	48	25,5	21	1,20 mln €	57,83 mln €
+Hellas Verona	Hellas Verona  	41	26,0	18	1,38 mln €	56,50 mln €
+AC Chievo Verona	AC Chievo Verona	36	28,0	16	1,53 mln €	55,23 mln €
+FC Crotone	FC Crotone	40	24,5	19	1,20 mln €	47,88 mln €

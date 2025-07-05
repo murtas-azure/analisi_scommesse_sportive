@@ -1,0 +1,20 @@
+Inter	Inter Vincitore Coppa Italia 22/23	35	27,1	24	18,71 mln €	654,85 mln €
+AC Milan	AC Milan	42	24,6	26	13,61 mln €	571,41 mln €
+SSC Napoli	SSC Napoli Campione d'Italia 22/23	35	26,5	22	14,71 mln €	515,00 mln €
+Juventus FC	Juventus FC	39	25,2	19	12,94 mln €	504,53 mln €
+Atalanta	Atalanta	42	25,2	21	10,38 mln €	436,05 mln €
+Bologna FC	Bologna FC	37	25,1	26	9,44 mln €	349,30 mln €
+AS Roma	AS Roma	41	25,2	24	8,30 mln €	340,40 mln €
+ACF Fiorentina	ACF Fiorentina	41	25,7	21	6,93 mln €	284,10 mln €
+Torino FC	Torino FC	45	24,3	33	5,17 mln €	232,73 mln €
+SS Lazio	SS Lazio	37	26,4	20	6,09 mln €	225,45 mln €
+Genoa CFC	Genoa CFC  	44	25,9	29	4,44 mln €	195,40 mln €
+Udinese Calcio	Udinese Calcio	45	24,7	36	3,78 mln €	170,06 mln €
+AC Monza	AC Monza	39	26,6	13	3,68 mln €	143,43 mln €
+Hellas Verona	Hellas Verona	50	25,1	32	2,81 mln €	140,70 mln €
+US Sassuolo	US Sassuolo	38	25,5	21	3,67 mln €	139,54 mln €
+Frosinone Calcio	Frosinone Calcio  Campione Serie B 22/23	48	24,9	26	2,26 mln €	108,40 mln €
+US Lecce	US Lecce	39	24,6	30	2,76 mln €	107,73 mln €
+Empoli FC	Empoli FC	47	25,3	20	2,18 mln €	102,33 mln €
+US Salernitana	US Salernitana	50	25,6	31	1,89 mln €	94,60 mln €
+Cagliari Calcio	Cagliari Calcio  	38	27,0	19	2,43 mln €	92,23 mln €

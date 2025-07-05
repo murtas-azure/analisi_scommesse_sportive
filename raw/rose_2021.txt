@@ -1,0 +1,20 @@
+Juventus FC	Juventus FC Vincitore Coppa Italia 20/21	43	25,5	24	14,94 mln €	642,50 mln €
+Inter	Inter Campione d'Italia 20/21	36	27,7	20	15,52 mln €	558,55 mln €
+AC Milan	AC Milan	37	25,8	22	14,78 mln €	546,95 mln €
+SSC Napoli	SSC Napoli	37	25,8	20	12,90 mln €	477,23 mln €
+Atalanta	Atalanta	44	24,9	24	9,06 mln €	398,75 mln €
+AS Roma	AS Roma	39	24,3	25	9,78 mln €	381,25 mln €
+ACF Fiorentina	ACF Fiorentina	38	25,9	22	8,57 mln €	325,80 mln €
+SS Lazio	SS Lazio	35	27,5	24	7,56 mln €	264,53 mln €
+US Sassuolo	US Sassuolo	43	25,5	22	5,84 mln €	251,00 mln €
+Torino FC	Torino FC	41	25,3	25	5,45 mln €	223,40 mln €
+Bologna FC	Bologna FC	45	24,2	28	4,14 mln €	186,20 mln €
+Hellas Verona	Hellas Verona	43	25,2	19	3,79 mln €	162,98 mln €
+Udinese Calcio	Udinese Calcio	44	25,4	26	3,23 mln €	142,30 mln €
+Cagliari Calcio	Cagliari Calcio	46	25,5	23	2,92 mln €	134,53 mln €
+UC Sampdoria	UC Sampdoria	46	26,7	20	2,79 mln €	128,55 mln €
+Empoli FC	Empoli FC  Campione Serie B 20/21	40	25,0	12	3,16 mln €	126,50 mln €
+Genoa CFC	Genoa CFC	47	26,5	24	2,58 mln €	121,28 mln €
+Venezia FC	Venezia FC  	51	25,2	35	1,59 mln €	80,98 mln €
+Spezia Calcio	Spezia Calcio	34	24,1	23	2,31 mln €	78,50 mln €
+US Salernitana	US Salernitana  	51	26,3	26	1,38 mln €	70,56 mln €

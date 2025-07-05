@@ -1,0 +1,20 @@
+Juventus FC	Juventus FC Campione d'Italia 15/16Vincitore Coppa Italia 15/16	38	26,6	20	13,08 mln €	497,18 mln €
+SSC Napoli	SSC Napoli	37	26,2	22	10,47 mln €	387,30 mln €
+AS Roma	AS Roma	47	24,2	25	7,55 mln €	354,68 mln €
+Inter	Inter	41	25,9	29	8,01 mln €	328,30 mln €
+AC Milan	AC Milan	42	25,3	21	6,06 mln €	254,33 mln €
+SS Lazio	SS Lazio	46	24,2	33	4,92 mln €	226,45 mln €
+ACF Fiorentina	ACF Fiorentina	42	24,8	30	5,17 mln €	217,08 mln €
+Torino FC	Torino FC	51	24,7	24	3,18 mln €	162,35 mln €
+Atalanta	Atalanta	44	25,9	16	3,68 mln €	161,70 mln €
+US Sassuolo	US Sassuolo	48	25,0	7	3,03 mln €	145,25 mln €
+UC Sampdoria	UC Sampdoria	42	25,3	28	2,80 mln €	117,58 mln €
+Genoa CFC	Genoa CFC	44	26,3	23	2,46 mln €	108,18 mln €
+Udinese Calcio	Udinese Calcio	44	25,0	34	2,32 mln €	101,95 mln €
+Bologna FC	Bologna FC	48	25,2	22	1,98 mln €	95,00 mln €
+Cagliari Calcio	Cagliari Calcio  Campione Serie B 15/16	46	25,2	17	1,33 mln €	61,08 mln €
+Empoli FC	Empoli FC	42	25,0	17	1,32 mln €	55,45 mln €
+Delfino Pescara 1936	Delfino Pescara 1936  	50	25,2	19	962 mila €	48,10 mln €
+AC Chievo Verona	AC Chievo Verona	44	26,8	20	1,04 mln €	45,88 mln €
+US Città di Palermo	US Città di Palermo	39	24,8	23	1,05 mln €	41,10 mln €
+FC Crotone	FC Crotone  	37	25,5	12	992 mila €	36,70 mln €

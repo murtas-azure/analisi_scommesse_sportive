@@ -1,0 +1,20 @@
+Juventus FC	Juventus FC Campione d'Italia 14/15Vincitore Coppa Italia 14/15	38	25,9	22	11,58 mln €	440,00 mln €
+AS Roma	AS Roma	48	25,2	34	6,94 mln €	332,90 mln €
+SSC Napoli	SSC Napoli	34	26,5	22	9,47 mln €	321,93 mln €
+Inter	Inter	42	25,7	30	7,01 mln €	294,28 mln €
+AC Milan	AC Milan	42	26,1	16	5,09 mln €	213,83 mln €
+ACF Fiorentina	ACF Fiorentina	39	26,6	29	4,89 mln €	190,53 mln €
+SS Lazio	SS Lazio	38	26,2	26	4,61 mln €	175,30 mln €
+UC Sampdoria	UC Sampdoria	43	26,5	22	2,94 mln €	126,53 mln €
+Genoa CFC	Genoa CFC	47	24,8	27	2,50 mln €	117,55 mln €
+US Sassuolo	US Sassuolo	39	25,1	5	2,49 mln €	97,00 mln €
+Udinese Calcio	Udinese Calcio	43	26,8	31	2,16 mln €	93,00 mln €
+Torino FC	Torino FC	39	26,1	17	2,30 mln €	89,83 mln €
+Atalanta	Atalanta	44	27,2	15	1,78 mln €	78,45 mln €
+Bologna FC	Bologna FC  	42	26,3	17	1,79 mln €	75,23 mln €
+Empoli FC	Empoli FC	38	24,6	16	1,96 mln €	74,60 mln €
+US Città di Palermo	US Città di Palermo	40	24,9	21	1,72 mln €	68,68 mln €
+Carpi FC 1909	Carpi FC 1909  Campione Serie B 14/15	41	26,4	18	1,27 mln €	52,05 mln €
+AC Chievo Verona	AC Chievo Verona	40	28,0	17	1,24 mln €	49,78 mln €
+Hellas Verona	Hellas Verona	42	26,3	20	1,14 mln €	47,73 mln €
+Frosinone Calcio	Frosinone Calcio  	35	26,5	10	1,09 mln €	38,30 mln €
